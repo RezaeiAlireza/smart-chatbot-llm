@@ -30,7 +30,7 @@ Torch: Backend library for PyTorch models.
 ### Installation Steps
 1. Clone the Repository:
 ```bash
-git clone https://github.com/<your_username>/smart-chatbot-llm.git
+git clone https://github.com/RezaeiAlireza/smart-chatbot-llm.git
 cd smart-chatbot-llm
 ```
 2. Install Dependencies:
