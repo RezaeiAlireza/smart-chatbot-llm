@@ -4,7 +4,7 @@ A lightweight conversational AI chatbot built using the Hugging Face transformer
 
 ## 🚀 Live Demo
 
-[Link](https://huggingface.co/spaces/ar11069/smart-chatbot)
+[Smart-Chatbot](https://huggingface.co/spaces/ar11069/smart-chatbot)
 
 ## 📜 Project Overview
 
